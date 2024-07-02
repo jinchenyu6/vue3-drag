@@ -1,9 +1,7 @@
-<<<<<<< HEAD
-# Vue 3 + Vite
+# Vue 3拖拽组件实现
+主要依赖： Vue3 DnD   vue3-draggable-resizable
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+使用Vue3 DnD来实现跨组件的拖拽
+使用vue3-draggable-resizable来实现容器内元素的自由拖拽、对齐、吸附
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
-=======
-# vue3-drag
->>>>>>> b41aafe86bf587ef5ced3c5a975e47208ca15d42
+
